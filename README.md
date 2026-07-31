@@ -20,7 +20,7 @@ The learning journey is designed so learners progress through three distinct sta
 3. **Interactive Exploration:** Hands-on experience with a small LLM model and experimenting with text generation.
 
 
-## Resourcses
+## Resources
 <details>
 <summary><b><img src="./folder-yellow.png" alt="Yellow folder icon" height="18" style="vertical-align:middle; margin-right:5px;"> session-1/</b> (Click to expand)</summary>
 <ul>
