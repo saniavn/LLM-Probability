@@ -47,9 +47,9 @@ The learning journey is designed so learners progress through three distinct sta
 <details>
 <summary><b><img src="./folder-yellow.png" alt="Yellow folder icon" height="18" style="vertical-align:middle; margin-right:5px;"> session-3/</b> (Click to expand)</summary>
 <ul>
-  <li><a href="./session-3/slide-deck/"><code>slide-deck/</code></a></li>
-  <li><a href="./session-3/activity-1/"><code>activity-1/</code></a> - (Worksheet)</li>
-  <li><a href="./session-3/activity-2/"><code>activity-2/</code></a> - (Worksheet)</li>
+ <li><a href="https://docs.google.com/presentation/d/1XYP9_jGhaD_J_huG7qhl4s7LKnXMXLIs/view"><code>slide-deck/</code></a></li>
+<li><a href="https://docs.google.com/document/d/1adXA0CgInaAHhGsoqyzysuh7opBzKKRX/view"><code>activity-1/</code></a> - (Worksheet)</li>
+<li><a href="https://docs.google.com/document/d/1GgZhFjJaAGq7DTSFdaIO-nROU92KMsiq/view"><code>activity-2/</code></a> - (Worksheet)</li>
   <li><a href="./session-3/assessment/"><code>assessment/</code></a></li>
 </ul>
 </details>
