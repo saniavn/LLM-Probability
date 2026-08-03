@@ -27,8 +27,7 @@ The learning journey is designed so learners progress through three distinct sta
   <li><a href="https://docs.google.com/presentation/d/19P5NSdswbB2H6EC1fEBS_6_bRpeknrWA/view"><code>slide-deck/</code></a></li>
   <li><a href="https://docs.google.com/document/d/13UydOGzXzr3U7YJ3i_rnnxxzQK7OE4-n/view"><code>activity-1/</code></a> - (Coin Flip Worksheet)</li>
   <li><a href="https://docs.google.com/document/d/1Vv_38JZG7fK2vZJdwYb6UlbYscz5t3-H/view"><code>activity-2/</code></a> - (Physical and paper-based)</li>
-  <li><a href="https://docs.google.com/document/d/1Vv_38JZG7fK2vZJdwYb6UlbYscz5t3-H/view"><code>activity-2/</code></a> - (Physical and paper-based)</li>
-<li><a href="https://llm-human-chain.web.app/"><code>activity-2-virtual/</code></a> - (Virtual version)</li>
+<li><a href="https://session1-spinners-activity.web.app/"><code>activity-2-virtual/</code></a> - (Virtual version)</li>
   <li><a href="./session-1/assessment/"><code>assessment/</code></a></li>
 </ul>
 </details>
