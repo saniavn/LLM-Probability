@@ -36,9 +36,11 @@ The learning journey is designed so learners progress through three distinct sta
 <details>
 <summary><b><img src="./folder-yellow.png" alt="Yellow folder icon" height="18" style="vertical-align:middle; margin-right:5px;"> session-2/</b> (Click to expand)</summary>
 <ul>
-  <li><a href="./session-2/slide-deck/"><code>slide-deck/</code></a></li>
-  <li><a href="./session-2/activity-1/"><code>activity-1/</code></a> - (Physical and paper-based)</li>
-  <li><a href="./session-2/activity-2/"><code>activity-2/</code></a> - (Worksheet)</li>
+  <li><a href="https://docs.google.com/presentation/d/1BGcErElIiEBAF6B7gnj-fJOvME12dRmT/view"><code>slide-deck/</code></a></li>
+   <li><a href="./session-2/activity-1/"><code>activity-1/</code></a> - (Physical and paper-based)</li>
+  <li><a href="https://llm-human-chain.web.app/"><code>activity-1-virtual/</code></a> - (Virtual version)</li>
+ <li><a href="https://docs.google.com/document/d/1GpDKNtH3XXph1lVdHnet9d30TnhmgDFS/view"><code>activity-2/</code></a> - (Worksheet)</li>
+  
   <li><a href="./session-2/assessment/"><code>assessment/</code></a></li>
 </ul>
 </details>
