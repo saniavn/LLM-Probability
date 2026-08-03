@@ -24,9 +24,11 @@ The learning journey is designed so learners progress through three distinct sta
 <details>
 <summary><b><img src="./folder-yellow.png" alt="Yellow folder icon" height="18" style="vertical-align:middle; margin-right:5px;"> session-1/</b> (Click to expand)</summary>
 <ul>
-  <li><a href="./session-1/slide-deck/"><code>slide-deck/</code></a></li>
-  <li><a href="./session-1/activity-1/"><code>activity-1/</code></a> - (Worksheet)</li>
-  <li><a href="./session-1/activity-2/"><code>activity-2/</code></a> - (Physical and paper-based)</li>
+  <li><a href="https://docs.google.com/presentation/d/19P5NSdswbB2H6EC1fEBS_6_bRpeknrWA/view"><code>slide-deck/</code></a></li>
+  <li><a href="https://docs.google.com/document/d/13UydOGzXzr3U7YJ3i_rnnxxzQK7OE4-n/view"><code>activity-1/</code></a> - (Coin Flip Worksheet)</li>
+  <li><a href="https://docs.google.com/document/d/1Vv_38JZG7fK2vZJdwYb6UlbYscz5t3-H/view"><code>activity-2/</code></a> - (Physical and paper-based)</li>
+  <li><a href="https://docs.google.com/document/d/1Vv_38JZG7fK2vZJdwYb6UlbYscz5t3-H/view"><code>activity-2/</code></a> - (Physical and paper-based)</li>
+<li><a href="https://llm-human-chain.web.app/"><code>activity-2-virtual/</code></a> - (Virtual version)</li>
   <li><a href="./session-1/assessment/"><code>assessment/</code></a></li>
 </ul>
 </details>
