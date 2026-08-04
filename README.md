@@ -19,6 +19,9 @@ The learning journey is designed so learners progress through three distinct sta
 2. **Context-Dependent Text Generation:** Using spinner-based activity to simulate how a chatbot chooses the next word.
 3. **Interactive Exploration:** Hands-on experience with a small LLM model and experimenting with text generation.
 
+## Credits
+This work was developed by [Saniya Vahedian Movahed](https://saniavn.github.io/) at the University of Texas at San Antonio and [David Touretzky](https://www.cs.cmu.edu/~dst/) at Carnegie Mellon University.
+
 
 ## Resources
 <details>
