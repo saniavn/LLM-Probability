@@ -1,4 +1,4 @@
-![LLM-Probability.org Banner](./static/images/logo.png)
+![LLM-Probability.org Banner](./logo.png)
 
 # Introducing the Probabilistic Foundations of Large Language Models
 
