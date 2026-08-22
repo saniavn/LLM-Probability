@@ -27,9 +27,6 @@ The interactive LLM-Probability web application used in Session 3 is live and pu
 * **Live Web Application:** [https://llm-probability.org](https://llm-probability.org)
 * **Software Repository (Source Code):** [llm-probability-source-code (Stateless Version)](https://github.com/saniavn/llm-probability-sourcse-code/tree/stateless-version)
 
-## Credits
-This work was developed by [Saniya Vahedian Movahed](https://saniavn.github.io/) and [David Touretzky](https://www.cs.cmu.edu/~dst/).
-
 
 ## Resources
 <details>
@@ -74,3 +71,4 @@ If you use these materials in your teaching or research, please cite the relevan
 3. Vahedian Movahed, S. (2026, February). Think Like AI: Hands-On Exploration of Sampling Parameters and Prompts for Middle School Students' Generative AI Literacy. *Proceedings of the 57th ACM Technical Symposium on Computer Science Education V. 1* (pp. 1082–1088).
 
 ## Credits
+This work was developed by [Saniya Vahedian Movahed](https://saniavn.github.io/) and [David Touretzky](https://www.cs.cmu.edu/~dst/).
