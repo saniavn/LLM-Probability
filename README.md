@@ -1,3 +1,5 @@
+![LLM-Probability.org Banner](./static/images/logo.png)
+
 # Introducing the Probabilistic Foundations of Large Language Models
 
 This repository provides a three-session unit for middle school students on how LLMs generate text through probability and sampling.
