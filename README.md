@@ -19,6 +19,12 @@ The learning journey is designed so learners progress through three distinct sta
 2. **Context-Dependent Text Generation:** Using spinner-based activity to simulate how a chatbot chooses the next word.
 3. **Interactive Exploration:** Hands-on experience with a small LLM model and experimenting with text generation.
 
+## Interactive Software & Source Code
+The interactive LLM-Probability web application used in Session 3 is live and publicly accessible:
+
+* **Live Web Application:** [https://llm-probability.org](https://llm-probability.org)
+* **Software Repository (Source Code):** [llm-probability-source-code (Stateless Version)](https://github.com/saniavn/llm-probability-sourcse-code/tree/stateless-version)
+
 ## Credits
 This work was developed by [Saniya Vahedian Movahed](https://saniavn.github.io/) and [David Touretzky](https://www.cs.cmu.edu/~dst/).
 
