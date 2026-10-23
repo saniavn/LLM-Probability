@@ -76,9 +76,9 @@ If you use these materials in your teaching or research, please cite the relevan
 
 If you use these materials in your teaching or research, please cite the relevant publication:
 
-1. Vahedian Movahed, S., & Touretzky, D. (2027). K–12 Teachers as Learners: Introducing a Sampling-Based, Context-Dependent Model of LLM Text Generation. *SIGCSE 2027*. **[In Press]**
+1. Vahedian Movahed, S., & Touretzky, D. (2027, February). K–12 Teachers as Learners: Introducing a Sampling-Based, Context-Dependent Model of LLM Text Generation. *SIGCSE 2027*. **[In Press]**
 
-2. Vahedian Movahed, S., & Touretzky, D. (November 2026). From Spinners to Sampling Parameters: Revealing the Probabilistic Underpinnings of LLM Text Generation. *Proceedings of the SIGCSE Virtual 2026 Conference*. **[In Press]**
+2. Vahedian Movahed, S., & Touretzky, D. (2026, November). From Spinners to Sampling Parameters: Revealing the Probabilistic Underpinnings of LLM Text Generation. *Proceedings of the SIGCSE Virtual 2026 Conference*. **[In Press]**
 
 3. Vahedian Movahed, S., Quarles, J., & Touretzky, D. (2026, February). Exploring How LLMs Use Probability to Generate Text: Interactive Activities for Middle School Students. *Proceedings of the 57th ACM Technical Symposium on Computer Science Education V. 2* (pp. 1563–1564).
 
